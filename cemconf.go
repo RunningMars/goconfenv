@@ -13,7 +13,7 @@ import (
 
 	"path/filepath"
 
-	"goconfenvcli/goconfigobj"
+	"goconfenv/goconfigobj"
 )
 
 type CemConf struct {
